@@ -42,5 +42,8 @@ This project applies machine learning to detect fraudulent transactions in inter
    git clone https://github.com/udayram05/fraud-detection-in-internet-banking-usig-ml.git
    cd fraud-detection-in-internet-banking-usig-ml
 
+---
 
-install dependicies first before running the script :pip install pandas numpy scikit-learn matplotlib seaborn
+##Install dependencies
+
+pip install pandas numpy scikit-learn matplotlib seaborn
