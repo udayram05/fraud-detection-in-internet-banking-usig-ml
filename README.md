@@ -1,6 +1,6 @@
 # Fraud Detection in Internet Banking using Machine Learning
 
-This project applies machine learning to detect fraudulent transactions in internet banking. Using **KNN, Random Forest, and Logistic Regression**, the system achieves up to **90% accuracy** in identifying fraud.
+This project applies machine learning to detect fraudulent transactions in internet banking. Using **KNN, Random Forest, and Logistic Regression**, the system achieves up to **94% accuracy** in identifying fraud.
 
 ---
 
@@ -28,7 +28,7 @@ This project applies machine learning to detect fraudulent transactions in inter
 ---
 
 ## 📊 Results
-- Logistic Regression → ~XX% accuracy  
+- Logistic Regression → ~94% accuracy  
 - KNN → ~XX% accuracy  
 - Random Forest → ~90% accuracy (best performer)  
 
