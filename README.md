@@ -29,8 +29,8 @@ This project applies machine learning to detect fraudulent transactions in inter
 
 ## 📊 Results
 - Logistic Regression → ~94% accuracy  
-- KNN → ~XX% accuracy  
-- Random Forest → ~90% accuracy (best performer)  
+- KNN → ~93% accuracy  
+- Random Forest → ~94% accuracy (best performer)  
 
  
 
